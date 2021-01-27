@@ -24,7 +24,7 @@
 
 Angular version of all examples are included in this wrapper library.
 
-See file picker in [action here](https://appvital.com/example/file-picker) with example configurations demonstrating various features.
+See file picker in [action here](https://appvital.com/example/cloud-file-uploader) with example configurations demonstrating various features.
 
 ## Quick Start
 
@@ -61,7 +61,7 @@ UI code in .html file
 | Name    | Type                 | Required | Default | Description                                                         |
 | ------- | -------------------- | -------- | ------- | ------------------------------------------------------------------- |
 | apiKey  | String               | True     |         | Filepicker api key                                                  |
-| options | ApvFilePickerOptions |          |         | Check [ApvFilePickerOptions](https://appvital.com/docs/file-picker) |
+| options | ApvFilePickerOptions |          |         | Check [ApvFilePickerOptions](https://appvital.com/docs/file-uploader) |
 
 ### Callbacks
 
@@ -159,7 +159,7 @@ export class AppComponent implements OnInit {
 
 ## Documentation
 
-You can find further documentation about available filepicker options and configuration details here at https://appvital.com/docs/file-picker#Quickstart-Angular
+You can find further documentation about available filepicker options and configuration details here at https://appvital.com/docs/file-uploader#Quickstart-Angular
 
 ## Contributing
 
