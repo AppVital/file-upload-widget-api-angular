@@ -146,6 +146,7 @@ export class AppComponent implements OnInit {
 <button
   apvFilepicker
   [apikey]="apikey"
+  [options]="options"
   (onOpen)="onOpen()"
   (onClose)="onClose()"
   (onCancel)="onCancel()"
